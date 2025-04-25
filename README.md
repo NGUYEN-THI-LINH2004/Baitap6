@@ -22,7 +22,7 @@ Bài tập 6: Hệ quản trị CSDL.
 -  Chọn đúng cơ sở dữ liệu sv_tnut ở thanh chọn DB (trên tab query)
 -  Nhấn Execute (F5) để chạy toàn bộ script
 # 2. dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên (của sv đang làm bài tập này)
-### Nguyễn Thị Linh-0383791082, 30-09-2004
+![Screenshot 2025-04-25 110516](https://github.com/user-attachments/assets/a5fe038e-240f-47ce-b591-65abe358f181)
 # 3. nhập sql để tìm xem có những sv nào trùng hoàn toàn ngày/tháng/năm với em?
   ![Screenshot 2025-04-24 100708](https://github.com/user-attachments/assets/ffa00199-dacb-440e-955c-3da23047fa96)
 # 4. nhập sql để tìm xem có những sv nào trùng ngày và tháng sinh với em?
